@@ -1,0 +1,20 @@
+{
+  "name": "lotodatos-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Francisco Jose Fernandez Huetos",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "compression": "^1.7.4",
+    "express": "^4.17.1",
+    "mongodb": "^3.4.1",
+    "mongoose": "^5.8.7",
+    "node-cron": "2.0.1",
+    "rss-parser": "^3.7.3"
+  }
+}
